@@ -1,1 +1,1 @@
-This Project was Created by <h2><strong>Mario Scott</strong></h2>
+This Project was Created by <h3>Mario Scott</h3>
